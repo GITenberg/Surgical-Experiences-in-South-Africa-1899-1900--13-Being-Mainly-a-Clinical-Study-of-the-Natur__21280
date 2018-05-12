@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '9820'
     url: http://www.gutenberg.org/2009/agents/9820
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21280#Surgical-Experiences-in-South-Africa-1899-1900--13-Being-Mainly-a-Clinical-Study-of-the-Natur_
 gutenberg_bookshelf: Boer War
 gutenberg_issued: '2007-05-03'
 gutenberg_type: Text
